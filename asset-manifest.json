@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs_onecredit/static/css/main.c4756604.css",
+    "main.js": "/reactjs_onecredit/static/js/main.ba840802.js",
+    "static/js/787.c4e2a132.chunk.js": "/reactjs_onecredit/static/js/787.c4e2a132.chunk.js",
+    "index.html": "/reactjs_onecredit/index.html",
+    "main.c4756604.css.map": "/reactjs_onecredit/static/css/main.c4756604.css.map",
+    "main.ba840802.js.map": "/reactjs_onecredit/static/js/main.ba840802.js.map",
+    "787.c4e2a132.chunk.js.map": "/reactjs_onecredit/static/js/787.c4e2a132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4756604.css",
+    "static/js/main.ba840802.js"
+  ]
+}
